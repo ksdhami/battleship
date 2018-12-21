@@ -1,4 +1,4 @@
-package battleship.statistics;
+package statistics;
 
 import java.io.EOFException;
 import java.io.File;
@@ -10,7 +10,7 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.io.Serializable;
 
-import battleship.player.User;
+import player.User;
 
 /**
  * Class representing high score statistics
