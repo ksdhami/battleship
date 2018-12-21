@@ -1,12 +1,12 @@
-package battleship.game;
+package game;
 
-import battleship.gui.GUI;
-import battleship.coordinates.Coordinates;
-import battleship.player.Player;
-import battleship.player.User;
-import battleship.player.Computer;
-import battleship.board.Board;
-import battleship.statistics.Statistics;
+import gui.GUI;
+import coordinates.Coordinates;
+import player.Player;
+import player.User;
+import player.Computer;
+import board.Board;
+import statistics.Statistics;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
