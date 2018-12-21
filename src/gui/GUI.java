@@ -1,11 +1,11 @@
-package battleship.gui;
+package gui;
 
-import battleship.game.Game;
-import battleship.coordinates.Coordinates;
-import battleship.player.User;
-import battleship.board.Board;
-import battleship.statistics.Statistics;
-import battleship.ships.Ship;
+import game.Game;
+import coordinates.Coordinates;
+import player.User;
+import board.Board;
+import statistics.Statistics;
+import ships.Ship;
 
 import java.awt.Color;
 import java.awt.Container;
